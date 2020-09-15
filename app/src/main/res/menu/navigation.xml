@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_songs"
+        android:title="@string/killer_tab"/>
+
+    <item
+        android:id="@+id/navigation_albums"
+        android:title="@string/survivor_tab"/>
+
+</menu>
